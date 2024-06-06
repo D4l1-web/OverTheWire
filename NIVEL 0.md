@@ -20,4 +20,21 @@ Para leer archivos
 ```
 cat
 ```
-Mostrar el espacio en el disco 
+Mostrar el espacio en disco que utiliza un fichero o un directorio
+```
+du
+```
+#PROCEDIMIENTO
+
+En este caso no pide que nos conectemos por ssh al nivel 0
+
+```
+ssh dominio@IP
+```
+Nos pedira la contraseña que OverTheWire nos probee
+
+En caso de no tener ssh instalarlo
+```
+apt install ssh
+```
+También podemos utilizar la herramienta "PUTTY"
