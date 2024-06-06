@@ -29,7 +29,7 @@ du
 En este caso no pide que nos conectemos por ssh al nivel 0
 
 ```
-ssh dominio@IP
+ssh nombre@IP
 ```
 Nos pedira la contraseña que OverTheWire nos probee
 
